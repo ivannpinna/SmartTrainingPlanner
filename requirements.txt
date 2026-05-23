@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+motor
+pydantic
+pydantic-settings
+python-dotenv
+PyJWT
+bcrypt
+email-validator
+openai
+numpy
+python-multipart
